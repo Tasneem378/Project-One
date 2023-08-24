@@ -1,7 +1,7 @@
 //Question1_Calculate the total annual income of the person from the following text.
 //‘He earns 4000 euro from salary per month, 10000 euro annual bonus, 5500 euro online courses per month.’
 
-const salaryPerMonth = 4000;
+const salaryPerMonth = 5000;
 const annualBonus = 10000;
 const onlineCoursesPerMonth = 5500;
 
